@@ -14,11 +14,11 @@ This is a general section on how to install it. The process is very simple (and 
 two different ways from here
 
 #1 - chmod: 
-    i) run chmod +x ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
-    ii) add it to startup applications so it starts with your system
+    1) run chmod +x ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
+    2) add it to startup applications so it starts with your system
     
 #2 - python 3:
-    i) add as a custom command in startup applications. The command is python3 ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
+    1) add as a custom command in startup applications. The command is python3 ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
     
 
     
