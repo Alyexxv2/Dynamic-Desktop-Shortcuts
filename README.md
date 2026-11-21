@@ -8,17 +8,17 @@ KDE Plasma 6.8 - Icons take awhile to update
 # Installation
 This is a general section on how to install it. The process is very simple (and not super strict)! ! !
 
-1) download Dynamic-Desktop-Icons.py
+1) download dynamic-desktop-icons.py
 2) move it into ~/.local/bin (or another folder if you prefer)
 
 two different ways from here
 
 #1 - chmod: 
-    i) run chmod +x ~/.local/bin/Dynamic-Desktop-Icons.py (or wherever else you have it)
+    i) run chmod +x ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
     ii) add it to startup applications so it starts with your system
     
 #2 - python 3:
-    i) add as a custom command in startup applications. The command is python3 ~/.local/bin/Dynamic-Desktop-Icons.py (or wherever else you have it)
+    i) add as a custom command in startup applications. The command is python3 ~/.local/bin/dynamic-desktop-icons.py (or wherever else you have it)
     
 
     
