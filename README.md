@@ -36,4 +36,4 @@ There is a dictionary at the top of the script containing each shortcut you want
 MIME types can be found here: https://www.freedesktop.org/wiki/Specifications/shared-mime-info-spec. A link to where MIME types can be referenced is inside the script for quick access aswell.
 
 # Last Comments
-Please credit me if you use my code for something. Personal use does not require it. Do not used in closed source projects as per the GNU v2.0 license. Any ideas on how to improve or any bug reports would be appreciated! you can also fix them for yourself if you like.
+Please credit me if you use my code for something. Personal use does not require it. Do not used in closed source projects as per the GPL v2.0 license. Any ideas on how to improve or any bug reports would be appreciated! you can also fix them for yourself if you like.
