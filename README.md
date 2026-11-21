@@ -32,7 +32,7 @@ The script does have a few limitations, and it depends on how your distro handle
 
 # How to Customize
 It is really simple! 
-There is a dictionary at the top of the script containing each shortcut you want. You just input the path to the shortcut, the MIME type, and a fallback icon/exec if the script fails to find a default
+There is a dictionary at the top of the script containing each shortcut you want. You just input the path to the shortcut, the MIME type, and a fallback icon/exec if the script fails to find a default.
 MIME types can be found here: https://www.freedesktop.org/wiki/Specifications/shared-mime-info-spec. A link to where MIME types can be referenced is inside the script for quick access aswell.
 
 # Last Comments
