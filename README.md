@@ -1,5 +1,5 @@
 # Dynamic-Desktop-Shortcuts
-Shortcuts for default apps based on MIME type. Automatically updates when defaults are changed and has scheduled updates to catch app deletions/
+Shortcuts for default apps based on MIME type. Automatically updates when defaults are changed and has scheduled updates to catch app deletions
 
 This is meant for Linux Mint, specifically the cinnamon desktop. Full compatibility is not guarenteed with other desktop enviroments!!! Although it will probably just be delayed icon updating. I will mark my experience (and others' if it comes up) with different DEs.
 Cinnamon 6.6 - works flawlessly
